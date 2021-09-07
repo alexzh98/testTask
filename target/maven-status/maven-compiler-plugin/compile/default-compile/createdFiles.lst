@@ -1,0 +1,6 @@
+com/example/feigntest/contollers/appController.class
+com/example/feigntest/allEndpoints.class
+com/example/feigntest/FeigntestApplication.class
+com/example/feigntest/services/CurrencyService.class
+com/example/feigntest/services/CurrencyServiceimpl.class
+com/example/feigntest/FeignClients.class
