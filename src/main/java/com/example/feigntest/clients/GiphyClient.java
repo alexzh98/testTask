@@ -10,6 +10,6 @@ public interface GiphyClient {
     @RequestLine("GET ?api_key={api_key}&tag=rich")
     public GiphResponse getRichGif(@Param("api_key") String apiKey);
 
-    @RequestLine("GET ?api_key={api_key}&tag=broke")
+    @RequestLine("GET ?api_key={api_key}&tag=poor")
     public GiphResponse getBrokeGif(@Param("api_key") String apiKey);
 }
