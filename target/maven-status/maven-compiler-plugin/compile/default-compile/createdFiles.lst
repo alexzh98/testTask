@@ -1,6 +1,9 @@
 com/example/feigntest/contollers/appController.class
-com/example/feigntest/allEndpoints.class
+com/example/feigntest/clients/GiphyClient.class
+com/example/feigntest/clients/GiphResponse.class
+com/example/feigntest/RequesterService/Requester.class
+com/example/feigntest/Exchange/ExchangeResponce.class
+com/example/feigntest/clients/GiphData.class
 com/example/feigntest/FeigntestApplication.class
-com/example/feigntest/services/CurrencyService.class
-com/example/feigntest/services/CurrencyServiceimpl.class
-com/example/feigntest/FeignClients.class
+com/example/feigntest/clients/Giph.class
+com/example/feigntest/Exchange/ExchangedClient.class
